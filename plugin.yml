@@ -1,0 +1,9 @@
+name: StickFight
+main: zFastSlaying\StickFight
+version: 1.0.0
+api: 3.0.0-ALPHA12
+author: zFastSlaying
+commands:
+  StickFight:
+    description: StickFight Command
+    aliases: [sf, make]
